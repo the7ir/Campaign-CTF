@@ -1,1 +1,1 @@
-# blog
+# CTF For FUN
