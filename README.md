@@ -1,1 +1,2 @@
-# CTF For FUN
+# Capture The Flag 
+## CTF-time
